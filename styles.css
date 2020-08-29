@@ -285,3 +285,11 @@ body {
     .main-container-img img {
         border-radius: 15px 15px 0 0;
     }
+
+    .hide {
+        display: none;
+    }
+    
+    
+}
+
